@@ -1,0 +1,15 @@
+Vektör uzayları, matematiksel nesnelerdir ve genellikle gerçek sayılar, karmaşık sayılar veya rasyonel sayılar gibi bir alan üzerinde tanımlanırlar.
+Vektör uzayları, bir veya daha fazla vektörün toplanması ve skaler çarpımı işlemleriyle tanımlanır.
+Bu işlemler, bir vektör uzayının matematiksel özelliklerini belirler.
+Örneğin, bir n boyutlu vektör uzayı R^n, n boyutlu vektörlerin toplama ve skaler çarpım işlemleriyle tanımlanır.
+Bu işlemler, bir vektör uzayının doğrusal özelliklerini belirler. 
+Doğrusal özellikler, bir vektör uzayının, bir vektörün skaler çarpımı ile çarpılması ve bir vektörün diğer vektörlerle toplanması işlemlerinin geçerli olmasını sağlar.
+Vektör uzayları, doğrusal bağımsızlık kavramı ile de ilgilidir.
+Bir vektör uzayında, bir vektör diğer vektörler tarafından doğrusal olarak ifade edilebilir.
+Ancak, bir vektör doğrusal olarak bağımsız olduğunda, diğer vektörler tarafından ifade edilemez.
+Bu kavram, matematiksel modelleme ve mühendislikte özellikle önemlidir.
+Vektör uzayları ayrıca, birçok farklı matematiksel yapı ile genişletilebilir.
+Örneğin, iç çarpım uzayları, bir vektör uzayında iki vektör arasındaki açıyı ölçer. 
+Bu, matematiksel analizde ve fizikte kullanılan bir kavramdır.
+Sonuç olarak, vektör uzayları, matematiksel modellerin temsili için önemli bir araçtır.
+Vektör uzayları, matematiksel analiz, fizik, mühendislik, ekonomi ve bilgisayar bilimi gibi birçok uygulama alanında kullanılır.
